@@ -5,6 +5,12 @@ The franchise has been expanded into various films and other media, including te
 The franchise holds a Guinness World Records title for the "Most successful film merchandising franchise."[3] 
 In 2020, the Star Wars franchise's total value was estimated at US$70 billion, and it is currently the fifth-highest-grossing media franchise of all time. 
 
+## 1: The Phantom Menace
+
+## 2: Attack of the Clones
+
+## 3: Revenge of the Sith
+
 ## 4: A new hope
 
 ## 5: The Empire Strikes Back
