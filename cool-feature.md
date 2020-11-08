@@ -2,4 +2,6 @@
 
 ## Second title
 
-## And tests!
+## And tests
+
+Now they pass!
